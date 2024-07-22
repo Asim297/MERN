@@ -1,4 +1,4 @@
 1- create MERN directory
-npx create-react-app frontend
-install tailwind cc
-install routerdom
+2-npx create-react-app frontend
+3-install tailwind cc
+4-install routerdom
